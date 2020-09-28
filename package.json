@@ -1,0 +1,12 @@
+{
+  "name": "@d2api/d2api-types",
+  "version": "1.0.1",
+  "description": "",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2api/d2api-types.git"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
