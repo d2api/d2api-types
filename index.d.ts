@@ -11,6 +11,10 @@ export interface XurLocation {
    */
   location: string;
   /**
+   * a short string describing xur's location, i.e. "Winding Cove, EDZ"
+   */
+  locationName: string;
+  /**
    * a hash corresponding to the DestinyPlaceDefinition for this
    * location
    */
